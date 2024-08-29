@@ -1,0 +1,14 @@
+1. create user field
+
+site admin>users>User profile fields
+
+shortname=authcookies
+shortname=validationkey
+>> as text
+>> restrict to the spelling --used as it is --hard coded in code --week point 
+
+2. userid==2 --hard coded
+3. afterLogin should be in lib.php, after_login function to triger after login
+but just test 
+4. by pass written value in cookies --hard coded
+
