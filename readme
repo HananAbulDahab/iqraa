@@ -11,4 +11,7 @@ shortname=validationkey
 3. afterLogin should be in lib.php, after_login function to triger after login
 but just test 
 4. by pass written value in cookies --hard coded
+5. setmachine.php --write cookies as admin
+6. afterLogin.php --should be in lib.php,  after login
+7. add activity>>Restrict access>>user profile>>auth. from  cookies is >>OK
 
