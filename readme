@@ -26,3 +26,9 @@ so when i click create cookies will collect validationkey from db and create coo
 
  if not set to notok
 3. make an activity per quiz under course, restrict access by user profile auth. cookies to equal to ok
+
+>>>remove_dir($CFG->dataroot.'/cache', true);
+root@home:/var/www/html/moodle# php admin/cli/purge_caches.php
+root@home:/var/www/html/moodle# 
+
+
