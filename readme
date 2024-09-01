@@ -31,4 +31,6 @@ so when i click create cookies will collect validationkey from db and create coo
 root@home:/var/www/html/moodle# php admin/cli/purge_caches.php
 root@home:/var/www/html/moodle# 
 
+https://stackoverflow.com/questions/29901227/does-moodle-cache-user-profile-field-for-activity-restriction
+
 
