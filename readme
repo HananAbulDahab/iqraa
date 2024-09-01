@@ -33,4 +33,12 @@ root@home:/var/www/html/moodle#
 
 https://stackoverflow.com/questions/29901227/does-moodle-cache-user-profile-field-for-activity-restriction
 
-
+Great - thanks -
+I found some references in the 
+icode that allows the user to
+manage preferences, based on my 
+comment. The one that I think has
+done the trick is profile_load_
+custom_fields($USER); – 
+Martin Greenaway
+ CommentedApr 28, 2015 at 13:40
